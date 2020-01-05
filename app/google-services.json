@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142621015929",
+    "firebase_url": "https://tictactoe-coolmath.firebaseio.com",
+    "project_id": "tictactoe-coolmath",
+    "storage_bucket": "tictactoe-coolmath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142621015929:android:49ee6410c5e944a6e739a8",
+        "android_client_info": {
+          "package_name": "com.online.tictactoecoolmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142621015929-n13dm33vsi0v071cq6rrp1moi160p3h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.online.tictactoecoolmath",
+            "certificate_hash": "2179c1d207a032b3b3f2edfd919c4a96208ed7fc"
+          }
+        },
+        {
+          "client_id": "142621015929-ltg46igls6p13qs52vttslvjpmj9ttlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3uoLRyeblQ3lXmJ8KpCFaNVkByO282zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142621015929-ltg46igls6p13qs52vttslvjpmj9ttlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
